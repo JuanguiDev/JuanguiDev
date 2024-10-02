@@ -23,12 +23,12 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<!--## Mis Proyectos
+## Mis Proyectos
 
-### [Proyecto 1: Retos de programación](https://github.com/Juangui28/Ejercicios_de_logica)
-El proyecto "Ejercicios de logica" consiste en una colección de desafíos y ejercicios diseñados para mejorar las habilidades de programación. Cada reto presenta un problema específico que debe resolverse mediante el desarrollo de algoritmos y la implementación de soluciones eficientes. La tecnología utilizada en este proyecto es Python.
+### [Proyecto 1: Gestión de gimnasio](https://github.com/JuanguiDev/Campus_gym)
+Se ha desarrollado un sistema de gestión de usuarios en PHP con una base de datos en phpMyAdmin. El programa permite registrar, modificar, eliminar usuarios y gestionar los inactivos. Además, incluye una función para crear recordatorios de clases, facilitando la administración de usuarios y la organización de actividades.
 
-### [Proyecto 2: Nombre del Proyecto](URL del Proyecto)
+<!--### [Proyecto 2: Nombre del Proyecto](URL del Proyecto)
 Descripción breve del proyecto, lo que hace y las tecnologías que utilizaste.
 
 ### [Proyecto 3: Nombre del Proyecto](URL del Proyecto)
