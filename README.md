@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-<!-- 🔭 Actualmente trabajando en -->
+- 🔭 Actualmente trabajando en mi dominio de Python a través de proyectos y ejercicios prácticos.
 - 🌱 Aprendiendo y mejorando mis habilidades en Python.
 - 👯 Buscando colaborar en proyectos interesantes de código abierto.
 - 📫 Puedes contactarme a mi correo jugulome28@gmail.com. <!-- - 💬 Pregúntame sobre [temas que dominas o te interesan]. -->
@@ -25,13 +25,17 @@
 
 ## Mis Proyectos
 
-### [Proyecto 1: Gestión de gimnasio](https://github.com/JuanguiDev/Campus_gym)
+### [Proyecto 1: Python Study Log](https://github.com/JuanguiDev/python-study-notes-)
+Este repositorio es un registro de mi proceso de aprendizaje en Python. Contiene notas, ejemplos de código y ejercicios realizados durante mi curso de Python. Cada carpeta está organizada por temas, como variables, estructuras de control, funciones, manejo de archivos, y más. El objetivo es evidenciar el avance en mi conocimiento del lenguaje y tener un recurso al cual referirme en el futuro.
+
+Tecnologías utilizadas:
+  - Python
+  - Git/GitHub para el control de versiones y seguimiento del progreso
+
+### [Proyecto 2: Gestión de gimnasio](https://github.com/JuanguiDev/Campus_gym)
 Se ha desarrollado un sistema de gestión de usuarios en PHP con una base de datos en phpMyAdmin. El programa permite registrar, modificar, eliminar usuarios y gestionar los inactivos. Además, incluye una función para crear recordatorios de clases, facilitando la administración de usuarios y la organización de actividades.
 
-<!--### [Proyecto 2: Nombre del Proyecto](URL del Proyecto)
-Descripción breve del proyecto, lo que hace y las tecnologías que utilizaste.
-
-### [Proyecto 3: Nombre del Proyecto](URL del Proyecto)
+<!--### [Proyecto 3: Nombre del Proyecto](URL del Proyecto)
 Descripción breve del proyecto, lo que hace y las tecnologías que utilizaste.-->
 
 <!--## Contribuciones
