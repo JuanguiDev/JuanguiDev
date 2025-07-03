@@ -6,34 +6,25 @@
 
 ## Sobre mí
 
-- 🔭 Actualmente trabajando en mi dominio de Python a través de proyectos y ejercicios prácticos.
-- 🌱 Aprendiendo y mejorando mis habilidades en Python.
+- 🔭 Actualmente trabajando en 4D Software y Soluciones.
+- 🌱 Aprendiendo y mejorando mis habilidades en el Frontend y Backend.
 - 👯 Buscando colaborar en proyectos interesantes de código abierto.
 - 📫 Puedes contactarme a mi correo jugulome28@gmail.com. <!-- - 💬 Pregúntame sobre [temas que dominas o te interesan]. -->
 - ⚡ Fun fact: La miopía y la programación alteran mi percepción del mundo.
 
 ## Tecnologías y Herramientas
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Mis Proyectos
 
-### [Proyecto 1: Python Study Log](https://github.com/JuanguiDev/python-study-notes-)
-Este repositorio es un registro de mi proceso de aprendizaje en Python. Contiene notas, ejemplos de código y ejercicios realizados durante mi curso de Python. Cada carpeta está organizada por temas, como variables, estructuras de control, funciones, manejo de archivos, y más. El objetivo es evidenciar el avance en mi conocimiento del lenguaje y tener un recurso al cual referirme en el futuro.
-
-Tecnologías utilizadas:
-  - Python
-  - Git/GitHub para el control de versiones y seguimiento del progreso
-
-### [Proyecto 2: Gestión de gimnasio](https://github.com/JuanguiDev/Campus_gym)
-Se ha desarrollado un sistema de gestión de usuarios en PHP con una base de datos en phpMyAdmin. El programa permite registrar, modificar, eliminar usuarios y gestionar los inactivos. Además, incluye una función para crear recordatorios de clases, facilitando la administración de usuarios y la organización de actividades.
+### [Proyecto 1: Gestor de Bases de Datos Múltiples](https://github.com/JuanguiDev/gestor_bases_datos)
+Aplicación web moderna y segura para administrar múltiples bases de datos MySQL/MariaDB desde una única interfaz. Permite ejecutar consultas SQL en varias bases de datos al mismo tiempo, crear nuevas bases, gestionar esquemas y visualizar resultados de forma clara y organizada.
 
 <!--### [Proyecto 3: Nombre del Proyecto](URL del Proyecto)
 Descripción breve del proyecto, lo que hace y las tecnologías que utilizaste.-->
