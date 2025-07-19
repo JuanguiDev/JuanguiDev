@@ -39,7 +39,7 @@ Me encanta contribuir a la comunidad de código abierto. Aquí hay algunas de mi
 ## Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/juanguillermoloperamesa/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Juangui28)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanguiDev)
 
 ---
 
