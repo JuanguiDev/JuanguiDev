@@ -1,22 +1,23 @@
-# 👋 ¡Hola! Soy Juan Guillermo
+# 👋 Hi there! I'm Juan Guillermo
 
 ![Guillo Banner](https://github.com/user-attachments/assets/4c39d466-e191-4133-aedd-14aa14d0eb57)
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por resolver problemas, aprender constantemente y crear soluciones que generen impacto. 🚀 Aquí encontrarás algunos de los proyectos en los que he estado trabajando recientemente.
+Welcome to my GitHub profile! I'm a passionate developer who enjoys solving problems, learning new technologies, and building impactful solutions. 🚀  
+Here you'll find some of the projects I've been working on recently.
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-- 🔭 Actualmente trabajando en **4D Software y Soluciones**.
-- 🧠 Enfocado en mejorar mis habilidades como desarrollador **Frontend** y **Backend**.
-- 🤝 Abierto a colaborar en proyectos interesantes de **código abierto**.
-- 📫 Puedes contactarme a través de mi correo: [jugulome28@gmail.com](mailto:jugulome28@gmail.com)
-- ⚡ Dato curioso: La miopía y la programación alteran mi percepción del mundo.
+- 🔭 Currently working at **4D Software y Soluciones**.
+- 🌱 Focused on improving my **Frontend** and **Backend** development skills.
+- 🤝 Open to collaborating on exciting **open-source** projects.
+- 📫 Reach me at: [jugulome28@gmail.com](mailto:jugulome28@gmail.com)
+- ⚡ Fun fact: Myopia and programming both alter how I perceive the world.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies & Tools
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -26,24 +27,25 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por resolver p
 
 ---
 
-## 🚧 Proyectos Destacados
+## 🚧 Featured Projects
 
-### 🔹 [Gestor de Bases de Datos Múltiples](https://github.com/JuanguiDev/gestor_bases_datos)
-Aplicación web segura para administrar múltiples bases de datos **MySQL/MariaDB** desde una única interfaz. Permite ejecutar consultas SQL en varias bases al mismo tiempo, crear y gestionar esquemas, visualizar resultados de forma clara y eficiente.
+### 🔹 [Multi-Database Manager](https://github.com/JuanguiDev/gestor_bases_datos)
+A modern and secure web application to manage multiple **MySQL/MariaDB** databases from a single interface.  
+Run SQL queries across several databases at once, create and manage schemas, and visualize results in a clean and organized layout.
 
-<!-- Puedes añadir más proyectos siguiendo este formato -->
+<!-- Add more projects like this if needed -->
 <!--
-### 🔹 [Nombre del Proyecto](URL)
-Breve descripción del proyecto y tecnologías utilizadas.
+### 🔹 [Project Name](URL)
+Short description of the project and the tech stack used.
 -->
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/juanguillermoloperamesa/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanguiDev)
 
 ---
 
-> Gracias por visitar mi perfil. ¡Espero que encuentres algo útil o inspirador por aquí! 😊
+> Thanks for stopping by! I hope you find something useful or inspiring here. 😊
