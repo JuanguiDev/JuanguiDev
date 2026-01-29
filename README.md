@@ -14,18 +14,24 @@ Here you'll find some of the projects I've been working on recently.
 - 🤝 Open to collaborating on exciting **open-source** projects.
 - 📫 Reach me at: [jugulome28@gmail.com](mailto:jugulome28@gmail.com)
 - ⚡ Fun fact: Myopia and programming both alter how I perceive the world.
-<!--
+
 ---
 
 ## 🛠️ Technologies & Tools
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-6CC644?style=flat-square&logo=github-copilot&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
+<!--
 ## 🚧 Featured Projects
 
 ### 🔹 [Multi-Database Manager](https://github.com/JuanguiDev/gestor_bases_datos)
